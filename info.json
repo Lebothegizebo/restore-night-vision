@@ -1,0 +1,12 @@
+{
+  "name": "restore-night-vision",
+  "version": "0.1.0",
+  "title": "Restore Night Vision",
+  "author": "Lebothegizebo",
+  "description": "Restores the old nightvison colour filter to green.",
+  "dependencies": 
+  [
+    "base >= 2.0"
+  ],
+  "factorio_version": "2.0"
+}

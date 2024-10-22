@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 22.10.2024
+  Info:
+    - Initial version.
+    - Will be customizable to any colour filter in the future.
+    - Can be disabled via mod startup settings.
+  Changes:
+    - Restores Factorio 1.1 night vison filter to green. 
+
