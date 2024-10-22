@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "title": "Restore Night Vision",
   "author": "Lebothegizebo",
-  "description": "Restores the old nightvison colour filter to green.",
+  "description": "Restores the nightvison colour filter to green from older versions of factorio. Fully customizable colour tint (Coming Soon!)",
   "dependencies": 
   [
     "base >= 2.0"
