@@ -1,6 +1,6 @@
 {
   "name": "restore-night-vision",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "title": "Restore Night Vision",
   "author": "Lebothegizebo",
   "description": "Restores the nightvison colour filter to green from older versions of factorio. Fully customizable colour tint (Coming Soon!)",
